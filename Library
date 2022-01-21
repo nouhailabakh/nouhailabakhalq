@@ -1,0 +1,154 @@
+<!DOCUMENT HTML>
+<HTML>
+<head>
+<title>Library</title>
+<link rel="stylesheet" href="style.css">
+<meta charset="utf-8"/>
+<script Language="javascript" Type="text/javascript">
+ while(true)
+ {x=prompt("enter votre email:"); 
+ if(x){break;}}
+</script>
+</head>
+<body text="white">
+<header>
+<nav>
+<ul>
+<li id="logo" ><a href="#">Library</a></li>
+<li ><a href="#nos_oeuvres">Nos oeuvres</a></li>
+<li ><a href="#resume">Résumé</a></li>
+<li ><a href="#avantage">Avantages de lecture</a></li>
+</ul>
+</nav>
+<div id="imagePrincipale">
+<h1>Library</h1>
+<div id="premierTrait"></div>
+<h3><pre> "La lecture est  une porte ouverte
+sur un monde enchanté"
+</pre></h3>
+</div>
+</header>
+<section id="presentation">
+<div id="textInto">
+<h2 id="nos_oeuvres">Nos oeuvres</h2>
+
+</div>
+<div id="prestation">
+<div class="imagesPresentations">
+
+<h4>Les misérables</h4>
+<a href="https://beq.ebooksgratuits.com/vents/Hugo-miserables-1.pdf"><image src="\Users\HP\Desktop\test/oeuvrepic2.jpg" alt="oeuvre" height="190" width="230" usemap="#book1"></a>
+<h4>Ikigai the japenese secret</h4>
+<a href="https://img1.wsimg.com/blobby/go/528fd387-72f1-4bf6-b4be-2f0e210ec8fc/Ikigai%20_%20the%20Japanese%20secret%20to%20a%20long%20and%20hap.pdf"><image src="\Users\HP\Desktop\test/book45.jpg" alt="oeuvre" height="190" width="230" usemap="book2"></a>
+</div>
+</section>
+<section id="resume">
+<h2 id="resume1">Résumé</h2>
+<ul>
+<li><b>Résumé des misérables:</b></li>
+<pre><b>De l'œuvre entière se dégage cette pensée sociale exposée dans la préface :
+ « Tant qu'il existera, par le fait des lois et des mœurs, 
+ une damnation sociale créant artificiellement, en pleine civilisation,
+ des enfers, et compliquant d'une fatalité humaine la fatalité, qui est divine ; 
+ tant que les trois problèmes du siècle : la dégradation de l'homme par le prolétariat, 
+ la déchéance de la femme par la faim, l'atrophie de l'enfant par la nuit, ne seront pas résolus ; 
+ tant que, dans certaines régions, l'asphyxie sociale sera possible ; 
+ en d'autres termes, et à un point de vue plus étendu encore, 
+ tant qu'il y aura ignorance et misère, des livres de la nature de celui-ci ne seront pas inutiles. »</b>
+ <a href="http://salon-litteraire.linternaute.com/fr/resume-d-oeuvre/content/1861579-les-miserables-de-victor-hugo-resume">Suite</a>
+</pre>
+<li><b>Résumé de "Ikigai the japenese secret":</b></li>
+<pre>
+<b>
+Je vous offre aujourd’hui le résumé du livre  IKIGAI – The japanese secret to a long and happy life » 
+de Hector Garcia et Francesc Miralles (2016, Penguin Books). 
+Hector Garcia est ingénieur software et Francesc Miralles est journaliste et écrivain.
+ Ces deux spécialistes du Japon ont écrit le premier best-seller sur l’ikigaï. Iki..quoi ? 
+ L’ikigaï est un mot japonais. (prononcer ee-key-guy). 
+ Ce concept nous donne les clés pour identifier notre raison de nous lever le matin et vivre 
+ plus heureux en faisant ce que nous aimons vraiment. Si vous n’avez pas encore lu mon 
+ article guide sur l’ikigai au 400 likes, c’est par ici.
+
+« Si le hygge est l’art de ne rien faire, 
+l’ikigai est l’art de faire quelque chose et de le faire avec concentration et plaisir. » 
+Le New-York Post
+
+ 
+Pour les habitants japonais, tout le monde a un ikigai, une raison de vivre. 
+Pour eux, avoir un ikigai est la clé pour vivre plus heureux et plus longtemps. 
+Votre ikigai est à l’intersection entre votre passion, votre mission, votre vocation et votre profession.
+ Le découvrir signifie que chaque jour est empreint de sens. 
+ C’est la raison pour laquelle nous nous levons le matin heureux et motivé de commencer une nouvelle journée.
+
+Devinez quoi ?
+
+C’est aussi la raison pour laquelle de nombreux Japonais ne prennent jamais vraiment leur retraite. 
+En fait, il n’y a même pas de mot en japonais qui veut dire retraite!
+ Ils restent actifs et travaillent sur ce qu’ils aiment le plus.
+</b>
+<a href="https://trouvermavoie.fr/ikigai-hector-resume/">Suite</a>
+</pre>
+</ul>
+
+
+
+
+</section>
+<footer>
+<h2 id="avantage" >La lecture est à l'esprit ce que l'exercice au corps</h2>
+<p><pre ><i> <b>La lecture permet de se divertir et de se faire plaisir
+
+Tout comme le sport par exemple, la lecture procure du plaisir,
+aide à oublier les problèmes du quotidien et nous éloigne du stress.
+
+La lecture permet de développer la mémoire et les capacités cognitives
+
+Comprendre un livre nécessite de retenir une grande quantité d’informations.
+
+De plus, selon le type de livre que vous lisez, vous pouvez être amené à décider des visages,
+ des lieux, de la disposition des éléments. 
+ Vous imaginez ainsi les éléments du livre et stimulez votre esprit et votre imagination.
+ Votre cerveau étant stimulé, cela l’empêche de perdre ses capacités.
+ Le cerveau est un muscle qui a besoin d’entraînement pour fonctionner de façon optimum. 
+ Développer sa mémoire et ses capacités cognitives est un des bienfaits de la lecture très appréciable.
+
+La lecture améliore la concentration et l’attention
+
+Au lieu de porter votre attention sur tout un tas de choses en même temps
+ (réseaux sociaux, SMS, conversation avec ses collègues, envoi de différents mails…), 
+la lecture vous oblige à n’être concentré que sur le contenu que vous lisez.
+ Le monde qui vous entoure disparaît et vous êtes immergé dans votre lecture.
+ Au quotidien cela vous aide à n’être concentré que sur une tâche à la fois, cela augmente votre productivité.
+
+La lecture améliore votre expression orale et écrite
+
+La lecture est le meilleur moyen pour obtenir un vocabulaire étendu que vous pouvez utiliser au quotidien. 
+Cela a un avantage indéniable dans vos relations professionnelles et personnelles. 
+Vous prenez confiance en vous et cela vous permet de vous affirmer dans votre vie de tous les jours.
+ Parmi les bienfaits de la lecture, nombre impacteront votre intérieur personnel. 
+ L’aisance dans l’expression prend forme intérieurement et se ressent à l’extérieur.
+ Vous serez plus convaincant et plus charismatique avec une expression aisée.
+
+La lecture accroît vos connaissances
+
+En lisant, vous emmagasinez de nouvelles informations.
+ Et plus vous développez votre vocabulaire sur des sujets différents, 
+ plus vous aurez de chance de voir de nouvelles portes s’ouvrir. 
+ Votre connaissance est une force non quantifiable. 
+ Peu importe ce qui peut vous arriver, grâce à votre savoir vous serez en mesure d’affronter les défis.
+
+La lecture développe l’esprit d’analyse et l’esprit critique
+
+En lisant, vous analysez les informations que vous recevez 
+et appréhendez différents types de discours et d’argumentaires. 
+La lecture sollicite votre esprit critique et votre esprit d’analyse.
+ Chaque page tournée renforce le tissu de connaissances dans votre esprit et vous aide à terme,
+ <a href="
+https://crefadloire.org/les-interets-de-la-lecture/#:~:text=La%20lecture%20d%C3%A9veloppe%20l'esprit,analyse%20et%20l'esprit%20critique&text=Cela%20vous%20aide%20dans%20votre,les%20probl%C3%A8mes%20que%20vous%20rencontrez.">Suite</a>
+
+</b></i></pre></p>
+</footer>
+
+
+</body>
+</HTML>
